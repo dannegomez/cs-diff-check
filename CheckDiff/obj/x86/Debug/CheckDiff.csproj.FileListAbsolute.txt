@@ -1,0 +1,23 @@
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.MainForm.resources
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\bin\Debug\CheckDiff.exe
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\bin\Debug\CheckDiff.pdb
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.exe
+C:\Users\Anders\Documents\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.pdb
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\bin\Debug\CheckDiff.exe
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\bin\Debug\CheckDiff.pdb
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.csprojResolveAssemblyReference.cache
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.MainForm.resources
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.csproj.GenerateResource.Cache
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.exe
+C:\dev daniel\SharpDevelop Projects\CheckDiff\CheckDiff\obj\x86\Debug\CheckDiff.pdb
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\bin\Debug\CheckDiff.exe
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\bin\Debug\CheckDiff.pdb
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.csprojAssemblyReference.cache
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.MainForm.resources
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.csproj.GenerateResource.cache
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.csproj.CoreCompileInputs.cache
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.exe
+C:\Users\danne\source\repos\cs-diff-check\CheckDiff\obj\x86\Debug\CheckDiff.pdb
